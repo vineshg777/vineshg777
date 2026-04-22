@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything, as it is a great way to learn as a team
 - 📫 Drop me a message
 - 😄 Pronouns: 01
-- ⚡ Fun fact: I'm a civil engineering student who loves tech, Matlab is the only language i know ;)
 
 <!---
 vineshg777/vineshg777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
